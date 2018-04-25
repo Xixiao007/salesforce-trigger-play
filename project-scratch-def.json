@@ -1,11 +1,7 @@
 {
-    "orgName": "finxxi Company",
-    "edition": "Enterprise",
-    "features": ["DebugApex", "API"],
-    "country": "US",
-    "hasSampleData": "false",
+    "orgName": "Salesforce DX Company",
+    "edition": "Developer",
     "orgPreferences" : {
-        "enabled": ["S1DesktopEnabled", "ChatterEnabled"],
-        "disabled": ["S1EncryptedStoragePref2"]
+        "enabled": ["S1DesktopEnabled"]
     }
 }
